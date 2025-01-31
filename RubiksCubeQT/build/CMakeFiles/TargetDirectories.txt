@@ -1,0 +1,8 @@
+C:/Users/seben/projects/Rubik'sCube/RubiksCubeQT/build/CMakeFiles/rubikscubeqt.dir
+C:/Users/seben/projects/Rubik'sCube/RubiksCubeQT/build/CMakeFiles/edit_cache.dir
+C:/Users/seben/projects/Rubik'sCube/RubiksCubeQT/build/CMakeFiles/rebuild_cache.dir
+C:/Users/seben/projects/Rubik'sCube/RubiksCubeQT/build/CMakeFiles/list_install_components.dir
+C:/Users/seben/projects/Rubik'sCube/RubiksCubeQT/build/CMakeFiles/install.dir
+C:/Users/seben/projects/Rubik'sCube/RubiksCubeQT/build/CMakeFiles/install/local.dir
+C:/Users/seben/projects/Rubik'sCube/RubiksCubeQT/build/CMakeFiles/rubikscubeqt_autogen_timestamp_deps.dir
+C:/Users/seben/projects/Rubik'sCube/RubiksCubeQT/build/CMakeFiles/rubikscubeqt_autogen.dir
